@@ -4,7 +4,7 @@ function createHeader() {
   const headerHeading = document.createElement('h1');
 
   header.id = 'header';
-  headerAnchor.href = '/';
+  headerAnchor.href = '/atividade-pw/';
   headerHeading.textContent = 'Squirtle';
   headerAnchor.appendChild(headerHeading);
 
